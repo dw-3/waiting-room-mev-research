@@ -1,7 +1,7 @@
 ---
-id: <leave blank -- will be assigned by reviewers>
-title: Predatory Qualification Pools: An SBA to MEV Isomorphism
-team: Dilia Wood (lead)
+id: ""
+title: "Predatory Qualification Pools: An SBA to MEV Isomorphism"
+team: "Dilia Wood (lead)"
 created: 2026-08-16
 ---
 
